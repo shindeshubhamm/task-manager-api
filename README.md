@@ -5,6 +5,7 @@
 1. Express JS
 1. MonogoDB + Mongoose
 1. Sendgrid API (To send emails through your application)
+> Hosted at: [Task manager API](http://sps-task-manager.herokuapp.com/) This link won't open. (Use Postman to make requests.)
 
 ### Usage
 
@@ -22,5 +23,5 @@ npm install
 
 Run script:
 ```bash
-npm run dev (:3000)
+npm run dev # Server (:3000)
 ```
